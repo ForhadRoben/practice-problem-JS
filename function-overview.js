@@ -34,7 +34,7 @@ sum(15, 98, 56, 5, 9); */
 
 //return value
 
-function add(number1, number2) {
+/* function add(number1, number2) {
     console.log(number1, number2);
     var sum = number1 + number2;
     // console.log(sum);
@@ -48,4 +48,14 @@ function add(number1, number2) {
 // add(45, 15);
 
 var total = add(80, 20);
-console.log('total', total);
+console.log('total', total); */
+
+/* function bringSingara(money) {
+    var singaraPrice = 10;
+    var quantity = money / singaraPrice;
+    return quantity;
+}
+
+var myTaka = 150
+var singaras = bringSingara(myTaka);
+console.log('Eating singaras: ', singaras); */
